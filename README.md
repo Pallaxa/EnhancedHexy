@@ -16,7 +16,7 @@ Enhanced Hexy
 
 
 
-### Beer-Ware License (Revision 42)
+#### Beer-Ware License (Revision 42)
 As Poul-Henning Kamp said:
 
 > <christian.golle@fatguyentertainment.de> wrote this code.
